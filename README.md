@@ -1,2 +1,3 @@
-# SalesAndStock
-Sales Stock Login Search Update etc.
+# Sales And Stock
+### Proyekt açılan zaman bizi login pəncərəsi qarşılayır. Sistemdə hesabı olan şəxslər şifrəsini daxil edərək proqrama giriş əldə edir. Sistemdə yalnız CEO vəzifəsinə sahib olan şəxs(Vəzifəsi 1 olan şəxs) yeni hesab(account) yarada bilər. Digər vəzifəli şəxslər isə ümumiyyətlə həmin pəncərəni görmür. Sistemə yeni vəzifə, işçi, müştəri, şəhər, kateqoriya, məhsul artırmaq Direktor(vəzifəsi 2 olan şəxs) tərəfindən yerinə yetirilə bilir. Digər vəzifəyə sahib şəxslər həmin pəncərələri görmür. Digər vəzifədə olan şəxslər isə stoka məhsul əlavə edə və satılan məhsulu cədvələ əlavə edə bilər.
+
